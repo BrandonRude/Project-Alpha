@@ -1,3 +1,4 @@
+Read this document!
 README for project alpha
 
 This is a simple game to allow for the understanding of basic unity game design.  
