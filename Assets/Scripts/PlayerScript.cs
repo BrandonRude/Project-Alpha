@@ -26,7 +26,7 @@ public class PlayerScript : MonoBehaviour {
 	void Update () {
 
 		// retrive axis information
-		float inputX =Input.GetAxis("Horizontal");
+		float inputX =Input.GetAxisRaw("Horizontal");
 		float inputY = Input.GetAxis("Vertical");
 
 		// Flip character model
@@ -40,18 +40,12 @@ public class PlayerScript : MonoBehaviour {
 		movement = new Vector3(
 			speed.x * inputX,
 			rigidbody2D.velocity.y);
-		/*Trying to get the player to immediately stop moving when key is not pressed
-
-		if(Input.GetButtonUp("Horizontal")){
-
-			Debug.Log(rigidbody2D.velocity);
-
-		}
+		
 
 		// Jump
 		if(Input.GetButtonDown("Jump")){
 			rigidbody2D.AddForce( new Vector2(0, jumpForce));
-		}*/
+		}
 	
 	}
 
