@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 5932f72b245b488489fc492a705c9793
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blough - Hats - Copy
+    21300002: Blough - Hats - Copy_0
+    21300004: Blough - Hats - Copy_1
+    21300006: Blough - Hats - Copy_2
+    21300008: Blough - Hats - Copy_3
+    21300010: Blough - Hats - Copy_4
+    21300012: Blough - Hats - Copy_5
+    21300014: Blough - Hats - Copy_6
+    21300016: Blough - Hats - Copy_7
+    21300018: Blough - Hats - Copy_8
+    21300020: Blough - Hats - Copy_9
+    21300022: Blough - Hats - Copy_10
+    21300024: Blough - Hats - Copy_11
+    21300026: Blough - Hats - Copy_12
+    21300028: Blough - Hats - Copy_13
+    21300030: Blough - Hats - Copy_14
+    21300032: Blough - Hats - Copy_15
+    21300034: Blough - Hats - Copy_16
+    21300036: Blough - Hats - Copy_17
+    21300038: Blough - Hats - Copy_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blough - Hats - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 329
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 263
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 271
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 272
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 195
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 195
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 198
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 135
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 134
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 134
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 138
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 138
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 138
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 67
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 77
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blough - Hats - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
